@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>File Upload Dashboard</title>
+    <link rel="icon" href="recycle final logo 2.png" type="image/png">
     <style>
         /* Basic Styles */
         body {
@@ -117,3 +118,4 @@
     </footer>
 </body>
 </html>
+
