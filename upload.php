@@ -6,6 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Upload Files</title>
+    <link rel="icon" href="recycle final logo 2.png" type="image/png">
     <style>
         body {
             font-family: Arial;
@@ -140,5 +141,6 @@
         </div>
     </div>
 </body>
+
 
 </html>
