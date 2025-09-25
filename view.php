@@ -5,6 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <title>View Files</title>
+    <link rel="icon" href="recycle final logo 2.png" type="image/png">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -97,3 +98,4 @@
     <p style="text-align:center;"><a href="upload.php">⬅ Back to Upload</a></p>
 </body>
 </html>
+
